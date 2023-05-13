@@ -55,7 +55,7 @@ status: The web application is still under development to meet utmost optimisati
 database:
 data is stored on the postgres database system which is secure.
 
-link: https://calm-cove-66340.herokuapp.com/
+
 
 
 
